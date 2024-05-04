@@ -1,0 +1,9 @@
+[submodule "Bootstrapper"]
+	path = Bootstrapper
+	url = https://github.com/Jafar-ibrahim/Bootstrapper
+[submodule "DbNode"]
+	path = DbNode
+	url = https://github.com/Jafar-ibrahim/DbNode
+[submodule "TaskAssignmentApp"]
+	path = TaskAssignmentApp
+	url = https://github.com/Jafar-ibrahim/TaskAssignmentApp

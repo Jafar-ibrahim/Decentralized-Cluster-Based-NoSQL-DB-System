@@ -31,7 +31,7 @@ The system adheres to a microservices architecture, promoting modularity and mai
 
 ### Build the Project
 
-mvn clean install
+`mvn clean install`
 
 
 ### Run the Database Cluster
@@ -42,8 +42,8 @@ mvn clean install
 ### Access the API
 
 -Once the cluster is running, you can interact with the database through the provided API using tools like Postman or curl. 
--Database Nodes URL : http://host.docker.internal:900[2-5]
--Task Assignment App (Demo App) URL : http://host.docker.internal:9090/task-app/api/auth/login
+-Database Nodes URL : `http://host.docker.internal:900[2-5]`
+-Task Assignment App (Demo App) URL : `http://host.docker.internal:9090/task-app/api/auth/login`
 
 ## Developing and Contributing
 
